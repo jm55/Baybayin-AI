@@ -1,8 +1,13 @@
-# Baybayin_AI
+# Baybayin AI
 
 ## Description
-This project was originally made back when I was in SHS in 2018-2019.
-It uses Python as its primary language along with an attempt to use Java as its GUI wrapper which ultimately did not become very functional, effectively retaining its best functionality on the Python script sourced from EdjeElectronics repository in Object Detection.
+
+A capstone project which uses TensorFlow for Object Detection to detect Baybayin characters in lieu of traditional OCR.
+
+## Components Overview
+
+- Python: Runs the machine learning model which conducts object detection in lieu of OCR for Baybayin character detection.
+- Java: Acts as a GUI wrapper for Python (not very well implemented).
 
 ## Reference
 1. https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
